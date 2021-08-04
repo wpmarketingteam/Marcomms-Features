@@ -1,2 +1,2 @@
 # Marcomms-Features
-Unique one offs with other teams
+Unique one off blogs, posts, features and research with other Make WordPress teams
